@@ -1,0 +1,28 @@
+--[[Frogger Goals, 
+ player movement
+ wall collision
+ obstacle collision
+
+
+
+]]
+
+
+function _init()
+
+
+end
+
+
+function _update()
+
+
+end
+
+
+
+function _draw()
+
+
+
+end
